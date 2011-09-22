@@ -8,6 +8,12 @@ class Router {
 		
 	}
 	
+	public function Request () {
+		
+		return $this;
+		
+	}
+	
 }
 
 
